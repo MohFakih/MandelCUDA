@@ -1,2 +1,2 @@
 # MandelCUDA
-A CUDA based palatalized implementation of a mandelbrot set renderer.
+A CUDA based parallelized implementation of a mandelbrot set renderer.
